@@ -1,0 +1,36 @@
+body {
+    color: rgb(255, 2, 192);
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(212, 71, 182);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(217, 13, 118);
+}
+
+section {
+    background: rgb(3, 0, 1);
+}
+
+h1 {
+    font-size: 40px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+.filmeseseries {
+    opacity: 0.5;
+    height: 200px;
+} 
+
+.filmeseseries img:hover{
+    opacity: 1.0;
+    border: 1px solid rgb(224, 57, 168);
+}
+
